@@ -1,6 +1,6 @@
 # Microsoft-365-copilot-course
 Coursera project on Microsoft 365 Copilot – Word, Teams, outlook, Excel &amp; PowerPoint automation using AI.
-# 🎓 Fundamentals of Microsoft 365 Copilot (Coursera)
+# Fundamentals of Microsoft 365 Copilot (Coursera)
 
 **Completed by:** Nidhi Sree  
 **Platform:** Coursera  
@@ -9,14 +9,14 @@ Coursera project on Microsoft 365 Copilot – Word, Teams, outlook, Excel &amp; 
 
 ---
 
-## 🧭 Course Overview
+## Course Overview
 The **Fundamentals of Microsoft 365 Copilot** course provided an in-depth understanding of how AI-driven productivity tools enhance modern business workflows within Microsoft Word, Excel, and PowerPoint.  
 
 Through guided lessons, practical demonstrations, and a final project, I explored how Microsoft 365 Copilot assists in content creation, data analysis, and presentation storytelling — all while maintaining ethical and responsible AI usage.
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 ### 1. Introduction to Microsoft 365 Copilot
 - Understood how Microsoft 365 Copilot integrates with Word, Excel, and PowerPoint to accelerate productivity.  
@@ -53,7 +53,7 @@ Through guided lessons, practical demonstrations, and a final project, I explore
 
 ---
 
-## 🧩 Final Project – Ethical Business Report Creation
+## Final Project – Ethical Business Report Creation
 As part of the final project, I created a **professional business report** using Microsoft 365 Copilot.  
 This involved:
 - Designing clear prompts to guide Copilot’s output.  
@@ -65,12 +65,12 @@ This hands-on activity demonstrated how Copilot can enhance efficiency while kee
 
 ---
 
-## 📜 Course Certificate
+## Course Certificate
 [📎 View Certificate](certificate/microsoft-365-copilot-certificate.pdf)
 
 ---
 
-## 📂 Project Files
+## Project Files
 Explore supporting files and assets used for this course:
 - [📝 Word Report](project-files/word-report.docx)  
 - [📊 Excel Data Analysis](project-files/excel-summary.xlsx)  
@@ -80,7 +80,7 @@ Explore supporting files and assets used for this course:
 
 ---
 
-## 🚀 Key Takeaways
+## Key Takeaways
 - Mastered AI-assisted document creation using Microsoft Word Copilot.  
 - Improved data summarization and visualization in Excel.  
 - Strengthened presentation storytelling using PowerPoint Copilot.  
@@ -89,7 +89,7 @@ Explore supporting files and assets used for this course:
 
 ---
 
-## 💼 About the Author
+## About the Author
 I’m **Nidhi Sree**, an **MBA Business Analytics student** and **Quality Analyst at Amazon**, passionate about transforming raw data into meaningful insights through technology, AI tools, and storytelling dashboards.  
 
 This project reflects my continued learning journey to integrate **AI-driven productivity tools** into business analysis and reporting workflows.
