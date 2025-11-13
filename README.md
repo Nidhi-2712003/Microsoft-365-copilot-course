@@ -90,7 +90,7 @@ Explore supporting files and assets used for this course:
 ---
 
 ## About the Author
-I’m **Nidhi Sree**, an **MBA Business Analytics student** and **Quality Analyst at Amazon**, passionate about transforming raw data into meaningful insights through technology, AI tools, and storytelling dashboards.  
+I’m **Nidhi Sree**, an **MBA Business Analytics student** and **QA Analyst at Amazon**, passionate about transforming raw data into meaningful insights through technology, AI tools, and storytelling dashboards.  
 
 This project reflects my continued learning journey to integrate **AI-driven productivity tools** into business analysis and reporting workflows.
 
