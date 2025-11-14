@@ -101,9 +101,8 @@ This project reflects my continued learning journey to integrate **AI-driven pro
 ---
 
 ## 🪄 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your profile link)*  
-- 📧 Email: *(your email if you want)*  
-- 📂 [Other Projects](https://github.com/yourusername?tab=repositories)
+- 💼 [LinkedIn](https://www.linkedin.com/in/d-nidhi-sree-998a6037a/) 
+- 📧 Email: domarajunidhi@gmail.com
 
 ---
 
