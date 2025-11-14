@@ -73,8 +73,8 @@ This hands-on activity demonstrated how Copilot can enhance efficiency while kee
 ## Project Files
 Explore supporting files and assets used for this course:
 - [📝 Word Report](Copilot_Business_Report.docx)  
-- [📊 Excel Data Analysis](project-files/excel-summary.xlsx)  
-- [🎞️ PowerPoint Presentation](project-files/copilot-presentation.pptx)  
+- [📊 Excel Data Analysis](Financial_Performance_Q3_Copilot.xlsx)  
+- [🎞️ PowerPoint Presentation]()  
 
 > *(Note: All files use sample or mock data for demonstration purposes and do not contain any confidential or proprietary information.)*
 
