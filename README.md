@@ -69,7 +69,7 @@ This hands-on activity demonstrated how Copilot can enhance efficiency while kee
 
 - [📎 View Fundamentals of MS 365 Certificate](Certificate_MS_365_Fundamentals.pdf)
 - [📎 View Data Analysis Certificate](Data_Analysis_for_Microsoft_Excel.pdf)
-
+- [📎 View Power-BI Analysis Certificate](Unlock_power_of_Data_with_Power-BI_Certificate.pdf)
 ---
 
 ## Project Files
